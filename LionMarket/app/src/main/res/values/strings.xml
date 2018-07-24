@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">LionMarket</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lion">Lion</string>
+    <string name="market">Market</string>
+    <string name="earthfall_desc">"When the world ends, the fight begins! In co-op shooter Earthfall, gather your friends, load"
+        "your weapons and grab your portable defenses and work together as a team to battle through"
+        "swarms of ferocious aliens. Complete objectives, fortify and defend holdouts and use 3D"
+        "printers to create more weapons, barricades and turrets to get the job done by slaughtering"
+        "the alien scum through 10 epic levels full of brutal combat and rich lore."</string>
+    <string name="battlefield_desc">"Enter mankind’s greatest conflict with Battlefield™ V as the series goes back to its roots in a"
+        "never-before-seen portrayal of World War 2. Take on immersive, all-out multiplayer with"
+        "your squad in experiences like the vast Grand Operations and the cooperative Combined"
+        "Arms, or witness human drama set against global combat in the single player War Stories."
+        "As you fight in epic, unexpected locations across the globe, enjoy the richest and most"
+        "immersive Battlefield yet. Never be the same."</string>
+    <string name="farcry_desc">"Far Cry 3 is an open world first-person shooter set on an island unlike any other. A place"
+        "where heavily armed warlords traffic in slaves. Where outsiders are hunted for ransom. And as"
+        "you embark on a desperate quest to rescue your friends, you realize that the only way to"
+        "escape this darkness… is to embrace it"</string>
+    <string name="residentevil_desc">"A deadly virus engulfs the residents of Raccoon City in September of 1998,plunging the"
+       "city into chaos as flesh eating zombies roam the streets for survivors."
+        "An unparalleled adrenaline rush, gripping storyline, and unimaginable horrors await you."
+        "Witness the return of Resident Evil 2."</string>
+    <string name="terraria_desc">"Dig, Fight, Explore, Build: The very world is at your fingertips as you fight for survival, fortune,"
+        "and glory. Will you delve deep into cavernous expanses in search of treasure and raw"
+        "materials with which to craft ever-evolving gear, machinery, and aesthetics? Perhaps you will"
+        "choose instead to seek out ever-greater foes to test your mettle in combat? Maybe you will"
+        "decide to construct your own city to house the host of mysterious allies you may encounter"
+        "along your travels?"</string>
+    <string name="theforest_desc">"As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling"
+        "to stay alive against a society of cannibalistic mutants."
+        "Build, explore, survive in this terrifying first person survival horror simulator."</string>
+</resources>
